@@ -179,6 +179,39 @@ I also developed a better understanding of:
 * Technical documentation
 
 ---
+## 📸 Hands-On Evidence
+
+### 1. IP Configuration — ipconfig
+
+I Used the ipconfig command to view the workstation's network configuration, including the IPv4 address, subnet mask, and default gateway.
+
+![IP Configuration](ipconfig.png)
+
+---
+
+### 2. Network Connectivity — `ping`
+
+I Used the ping command to test network connectivity to 8.8.8.8. The test returned 0% packet loss.
+
+![Ping Connectivity Test](ping.png)
+
+---
+
+### 3. DNS Troubleshooting — nslookup
+
+I Used nslookup to verify DNS name resolution for google.com.
+
+![DNS Lookup](nslookup.png)
+
+---
+
+### 4. Windows System Information — `systeminfo`
+
+I Used the systeminfo command to gather Windows operating system, hardware, memory, and system configuration information.
+
+![Windows System Information](systeminfo.png)
+
+---
 
 ## 🚀 Future Improvements
 

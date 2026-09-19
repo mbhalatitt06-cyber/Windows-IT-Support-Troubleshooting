@@ -1,4 +1,4 @@
-# Windows-IT-Support-Troubleshooting
+# Windows-IT-Support-Troubleshooting-Lab
 A practical IT Support troubleshooting portfolio demonstrating Windows, networking, command-line tools, and help desk problem-solving skills.
 
 
